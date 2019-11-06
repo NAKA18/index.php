@@ -2,7 +2,7 @@
 
     echo "Olá Mundo 123";
 
-    echo "Olá Naka";     
+    echo "Olá Naka e pessoas";     
         
         
 ?>
